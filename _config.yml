@@ -14,13 +14,14 @@ author: Mubtasim Fuad
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+#   About Me: "aboutme"
+  About Me: "https://about.me/m.fuad"
   Resources:
     - My CV: "https://rafisics.github.io/cv/"
     - My wrtitings: "https://bigganblog.org/author/koutuholi/"
     - My Social Links: "https://about.me/m.fuad"
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+#     - Beautiful Jekyll: "https://beautifuljekyll.com"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://rafisics.github.io/cv/"
 
 # --- Logo --- #
@@ -44,13 +45,12 @@ round-avatar: true
 social-network-links:
   email: "m.fuad.rafi@gmail.com"
   facebook: rafisics
+  linkedin: mubtasim-fuad
   github: rafisics
   twitter: RaPhy_sics
-#   patreon: DeanAttali
   youtube: c/rafisics
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: mubtasim-fuad
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
