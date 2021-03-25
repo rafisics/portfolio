@@ -59,12 +59,13 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
-### LaTeX
+## LaTeX
 
 You can add LaTeX equations:
 
-$E = mc^2$
-$$ (\cos x + \sin x)^2 = \underbrace{\cos^2 x + \sin^2 x}_{1} + \overbrace{2 \sin x \cos x}^{\sin 2x}$$
+Inline math: $E = mc^2$
+
+Display math: $$ (\cos x + \sin x)^2 = \underbrace{\cos^2 x + \sin^2 x}_{1} + \overbrace{2 \sin x \cos x}^{\sin 2x}$$
 
 ## Boxes
 You can add notification, warning and error boxes like this:
