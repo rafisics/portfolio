@@ -20,7 +20,7 @@ navbar-links:
     - My Social Links: "https://about.me/m.fuad"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  My CV: "https://rafisics.github.io/cv/"
+  Author's home: "https://rafisics.github.io/cv/"
 
 # --- Logo --- #
 
@@ -46,10 +46,10 @@ social-network-links:
   github: rafisics
   twitter: RaPhy_sics
 #   patreon: DeanAttali
-  youtube: c/rafisics
+#   youtube: c/rafisics
 #  medium: yourname
 #  reddit: yourname
- linkedin: mubtasim-fuad
+#  linkedin: mubtasim-fuad
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
