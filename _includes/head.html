@@ -82,6 +82,19 @@
   {% if site.title %}
   <meta property="og:site_name" content="{{ site.title }}">
   {% endif %}
+  
+  <!-- for mathjax support -->
+  {% if page.usemathjax %}
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+  <script type="text/javascript" id="MathJax-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.0/es5/latest?tex-mml-chtml.js"> </script>
+  {% endif %}
 
   {%- capture img -%}
     {%- if page.share-img -%}
