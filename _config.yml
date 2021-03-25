@@ -15,9 +15,7 @@ author: Mubtasim Fuad
 
 navbar-links:
   About Me: "aboutme"
-#   About Me: "https://about.me/m.fuad"
   Resources:
-    - My CV: "https://rafisics.github.io/cv/"
     - My wrtitings: "https://bigganblog.org/author/koutuholi/"
     - My Social Links: "https://about.me/m.fuad"
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -48,23 +46,23 @@ social-network-links:
   github: rafisics
   facebook: rafisics
   twitter: RaPhy_sics
-#   youtube: c/rafisics
-#  medium: yourname
-#  reddit: yourname
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  youtube: c/rafisics
+#   medium: yourname
+#   reddit: yourname
+#   xing: yourname
+#   stackoverflow: "3943160/daattali"
+#   snapchat: deanat78
+#   instagram: deanat78
+#   spotify: yourname
+#   telephone: +14159998888
+#   steam: deanat78
+#   twitch: yourname
+#   yelp: yourname
+#   telegram: yourname
+#   calendly: yourname
+#   mastodon: instance.url/@username
+#   ORCID: your ORCID ID
+#   google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
