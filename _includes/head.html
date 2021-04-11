@@ -84,21 +84,18 @@
   {% endif %}
   
   <!-- for mathjax support -->
-  {% if page.usemathjax %}
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+{% if site.mathjax == true %}
+<script type="text/x-mathjax-config">
 MathJax.Hub.Config({
- extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js"],
- jax: ["input/TeX", "output/HTML-CSS"],
- tex2jax: {
-     inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-     displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
-     processEscapes: true,
-     processRefs: true,
- },
- "HTML-CSS": { availableFonts: ["TeX"] }
-}); 
+  tex2jax: {
+    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+    displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+    processEscapes: true
+  }
+});
 </script>
-  {% endif %}
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+{% endif %}
 
   {%- capture img -%}
     {%- if page.share-img -%}
