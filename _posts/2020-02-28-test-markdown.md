@@ -3,6 +3,7 @@ layout: post
 title: Sample blog post
 subtitle: Each post also has a subtitle
 comments: true
+mathjax: true
 ---
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
@@ -60,9 +61,9 @@ foo(3)
 
 You can add LaTeX equations:
 
-Inline math: $E = mc^2$
+Inline math: \(E = mc^2 \)
 
-Display math: $$ (\cos x + \sin x)^2 = \underbrace{\cos^2 x + \sin^2 x}_{1} + \overbrace{2 \sin x \cos x}^{\sin 2x}$$
+Display math: $$ (\cos x + \sin x)^2 = \underbrace{\cos^2 x + \sin^2 x}_{1} + \overbrace{2 \sin x \cos x}^{\sin 2x} $$
 
 ## Boxes
 You can add notification, warning and error boxes like this:
