@@ -61,9 +61,9 @@ foo(3)
 
 You can add LaTeX equations:
 
-Inline math: \(E = mc^2 \)
+Inline math: $E = mc^2$
 
-Display math: $$ (\cos x + \sin x)^2 = \underbrace{\cos^2 x + \sin^2 x}_{1} + \overbrace{2 \sin x \cos x}^{\sin 2x} $$
+Display math: $$ (\cos x + \sin x)^2 = \underbrace{\cos^2 x + \sin^2 x}_{1} + \overbrace{2 \sin x \cos x}^{\sin 2x} = 1 + \sin2x $$
 
 ## Boxes
 You can add notification, warning and error boxes like this:
