@@ -207,7 +207,7 @@ defaults:
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-      ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"  
+      ext-js: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"  
       # https://github.com/daattali/beautiful-jekyll/issues/195#issuecomment-507713501 
       # https://docs.mathjax.org/en/latest/web/start.html#getting-the-latest-version
   -
