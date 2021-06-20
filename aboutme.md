@@ -3,27 +3,27 @@ title: "About Me"
 layout: page
 permalink: /aboutme/
 excerpt: "Mubtasim Fuad's Contact"
-toc: false
 ---
 
 Hi, I’m Fuad. I’m a student living in Bangladesh. I am interested in Physics, education, writing, arts, books and movies. 
 
 ## Contact
 Md. Mubtasim Fuad\\
-Undergraduate Student,\\
-Department of Physics\\
-Jahangirnagar University\\
+Undergraduate Student\\
+Department of Physics, Jahangirnagar University\\
 E-mail : m.fuad.rafi@gmail.com\\
-E-mail (official) : mubtasim.stu2016@juniv.edu
+<!-- E-mail (official) : mubtasim.stu2016@juniv.edu -->
 
-You can also find me in:
+### You can also find me in:
 
-* [ResearchGate][ResearchGate]
+<!-- * [ResearchGate][ResearchGate] -->
 <!-- * [Academia][Academia] -->
 <!-- * [Google Citation Profile][Google] -->
 * [GitHub][GitHub]
 <!-- * [Orcid][Orcid] -->
 * [LinkedIn][LinkedIn]
+* [Facebook][Facebook]
+* [Twitter][Twitter]
 <!-- * [Instagram][Instagram] -->
 <!-- * [Flickr][Flickr] -->
 
@@ -32,6 +32,8 @@ You can also find me in:
 <!-- [Google]: https://scholar.google.com/citations?user=OMGYMbwAAAAJ&hl=en -->
 <!-- [Orcid]: https://orcid.org/0000-0002-4213-9460 -->
 [LinkedIn]: https://www.linkedin.com/in/mubtasim-fuad/
+[Facebook]: https://www.facebook.com/rafisics/
+[Twitter]: https://twitter.com/RaPhy_sics/
 <!-- [Instagram]: https://www.instagram.com/rafisics/ -->
 <!-- [Flickr]: https://www.flickr.com/ -->
 [GitHub]: https://github.com/rafisics/
